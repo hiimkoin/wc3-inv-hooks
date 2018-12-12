@@ -1,7 +1,9 @@
 #define _WIN32_WINNT 0x0500
+
 #include <windows.h>
 #include <iostream>
 
+//https://docs.microsoft.com/en-us/windows/desktop/inputdev/virtual-key-codes
 #define VK_T 0x54
 #define VK_Y 0x59
 #define VK_G 0x47
